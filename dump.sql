@@ -18,7 +18,7 @@ INSERT INTO teachers (name, pay) VALUES
 ('Oskar Florek', 1800),
 ('Lilianna Kwiecińska', 2000),
 ('Brajan Kubik', 2200),
-('Klara Dąbkowską', 1800),
+('Klara Dąbkowska', 1800),
 ('Zachariasz Zaręba', 2000);
 
 
@@ -72,7 +72,7 @@ INSERT INTO students (name, surname, email, class_id) VALUES
 ('Alan', 'Drozdowski', 'alan.drozdowski@gmail.com', 2),
 ('Brygida', 'Szczepańska', 'brygida.szczepanska@gmail.com', 3),
 ('Angela', 'Kuś', 'angela.kus@hotmail.com', 3),
-('Korneli', 'Kujawa', 'korneli.kujawa@gmail.com', 3),
+('Kornelia', 'Kujawa', 'korneli.kujawa@gmail.com', 3),
 ('Reginald', 'Skoczylas', 'reginald.skoczylas@hotmail.com', 4),
 ('Oskar', 'Szczepański', 'oskar.szczepanski@yahoo.com', 4),
 ('Walenty', 'Fijałkowski', 'walenty.fijalkowski@yahoo.com', 4),
