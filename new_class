@@ -1,0 +1,12 @@
+INSERT INTO teachers VALUES
+(7, 'Kornelia Mrozowska', 2500)
+
+INSERT INTO classes(name, main_teacher_id) VALUES
+('IIIC', 7)
+
+INSERT INTO students(name, surname, email, class_id) VALUES
+('Mateusz', 'Lauko', 'mateusz.lauko@gmail.com', 6),
+('Wiktor', 'Wróbel', 'wiktor.wrobel@yahoo.com', 6),
+('Klaudia', 'Kotowicz', 'klaudia.kotowicz@yahoo.com', 6),
+('Dominik', 'Pawlak', 'dominik.pawlak@gmail.com', 6),
+('Jakub', 'Kowalczyk', 'jakub.kowalczyk@gmail.com',  6)
