@@ -1,0 +1,1 @@
+SELECT  productline, count(*) AS products_Types_Count, SUM(quantityInStock) AS quantityInStock  from products GROUP by productline;
